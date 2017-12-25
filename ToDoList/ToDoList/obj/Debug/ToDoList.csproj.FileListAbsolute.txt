@@ -1,0 +1,117 @@
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\ApplicationInsights.config
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\csc.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\vbc.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\ToDoList.dll.config
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\ToDoList.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\ToDoList.pdb
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.SqlServer.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.Web.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Newtonsoft.Json.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Net.Http.Formatting.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Helpers.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.WebHost.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Mvc.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Razor.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Deployment.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Razor.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.SqlServer.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.Web.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Razor.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Deployment.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Razor.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Helpers.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Mvc.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\Newtonsoft.Json.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Net.Http.Formatting.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.WebHost.xml
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\Users\daniel\Documents\Visual Studio 2015\Projects\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\ApplicationInsights.config
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\csc.exe
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\vbc.exe
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\ToDoList.dll.config
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\ToDoList.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\ToDoList.pdb
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.SqlServer.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.Web.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Newtonsoft.Json.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Net.Http.Formatting.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Helpers.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.WebHost.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Mvc.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Razor.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Razor.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\EntityFramework.SqlServer.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.Web.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Razor.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Webpages.Razor.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Helpers.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Mvc.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\Newtonsoft.Json.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Net.Http.Formatting.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\bin\System.Web.Http.WebHost.xml
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\Users\Limor\Desktop\New folder\ToDoParent\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
